@@ -1,3 +1,3 @@
 # websocket
 
-This is a web socket developed using php code
+This is a websocket developed using php code.
