@@ -1,12 +1,3 @@
 # websocket
-kfijgiji
-jijijij
-jijijij
-//fdgdg
-dfgfd
-g
-fdgdfh
-g
-jhg
-j
-gf
+
+This is a web socket developed using php code
